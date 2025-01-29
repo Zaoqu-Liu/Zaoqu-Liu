@@ -10,7 +10,7 @@ I am a PhD at Peking Union Medical College, specializing in the role of cancer-a
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-2a9d8f)](https://www.researchgate.net/profile/Zaoqu-Liu/research)
 [![GoogleScholar](https://img.shields.io/badge/GoogleScholar-4d90fe)](https://scholar.google.com/citations?user=cuGDrMsAAAAJ&hl=zh-CN)
 [![ORCID](https://img.shields.io/badge/ORCID-green)](https://orcid.org/0000-0002-0452-742X)
-[![WeChat](https://img.shields.io/badge/WeChat-e9c46a)](https://github.com/Zaoqu-Liu/Zaoqu-Liu/issues/1)
+[![WeChat](https://img.shields.io/badge/WeChat-127475)](https://github.com/Zaoqu-Liu/Zaoqu-Liu/issues/1)
 
 
 
