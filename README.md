@@ -8,5 +8,8 @@ I am a PhD at Peking Union Medical College, specializing in the role of cancer-a
 
 [![bilibili](https://img.shields.io/badge/Bilibili-yellow)](https://space.bilibili.com/375135306?spm_id_from=333.1007.0.0) 
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-purple)](https://www.researchgate.net/profile/Zaoqu-Liu/research)
+[![GoogleScholar](https://img.shields.io/badge/GoogleScholar-blue)](https://scholar.google.com/citations?user=cuGDrMsAAAAJ&hl=zh-CN)
+[![ORCID](https://img.shields.io/badge/ORCID-green)](https://orcid.org/0000-0002-0452-742X)
+
 
 
