@@ -1,7 +1,9 @@
 
-<p><em>Zaoqu Liu, Medical Doctor at <a href="http://www.cams.ac.cn/">Peking Union Medical College</em></p>
+<p><em>Zaoqu Liu, an MD candidate at <a href="http://www.cams.ac.cn/">Peking Union Medical College</em></p>
 
-I am a PhD at Peking Union Medical College, specializing in the role of cancer-associated fibroblasts (CAFs) in cancer progression, metastasis, and drug resistance. My research integrates single-cell RNA sequencing, spatial transcriptomics, and both in vitro and in vivo models to explore the complex interactions and mechanisms within the tumor microenvironment.
+My research focuses on cancer-associated fibroblasts (CAFs) and their role in cancer progression, metastasis, and drug resistance. I use advanced techniques such as single-cell RNA sequencing, spatial transcriptomics, and both in vitro and in vivo models to investigate how the tumor microenvironment influences cancer development and therapy response.
+
+In addition to my research, I develop several tools, including IRLS, BioEnricher, MOFS, TimeCCI, and SurvivalML. These tools are designed to address challenges in data analysis, optimization, and survival modeling, with a particular focus on applications in the biomedical field.
 
 💬 Connect to me by
 [discussions](https://github.com/Zaoqu-Liu/Zaoqu-Liu/issues) or [email](mailto:liuzaoqu@163.com). 
