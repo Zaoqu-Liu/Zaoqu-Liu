@@ -1,6 +1,11 @@
 # Welcome to My GitHub! 🧬
 
 <!-- badges: start -->
+<p align="center">
+	<a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      	<img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=Zaoqu-Liu&theme=merko&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" width="1000" alt="TROPHY" />
+   	</a>
+</p>
 [![License](https://img.shields.io/badge/License-GPL3-red)](https://github.com/Zaoqu-Liu/Zaoqu-Liu?tab=GPL-3.0-1-ov-file)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-2a9d8f)](https://www.researchgate.net/profile/Zaoqu-Liu/research)
 [![GoogleScholar](https://img.shields.io/badge/GoogleScholar-4d90fe)](https://scholar.google.com/citations?user=cuGDrMsAAAAJ&hl=zh-CN)
