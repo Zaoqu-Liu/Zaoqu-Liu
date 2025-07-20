@@ -1,7 +1,7 @@
 # Welcome to My GitHub! 🧬
 
 <!-- badges: start -->
-![](https://komarev.com/ghpvc/?username=mugpeng)
+![](https://komarev.com/ghpvc/?username=Zaoqu-Liu)
 [![License](https://img.shields.io/badge/License-GPL3-red)](https://github.com/Zaoqu-Liu/Zaoqu-Liu?tab=GPL-3.0-1-ov-file)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-2a9d8f)](https://www.researchgate.net/profile/Zaoqu-Liu/research)
 [![GoogleScholar](https://img.shields.io/badge/GoogleScholar-4d90fe)](https://scholar.google.com/citations?user=cuGDrMsAAAAJ&hl=zh-CN)
