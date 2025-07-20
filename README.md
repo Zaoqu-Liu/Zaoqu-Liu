@@ -19,6 +19,11 @@
 
 Working on computational methods for biomedical research, with interests in cancer biology and AI applications.
 
+<div align="left">
+<img alt="Anurag&#39;s GitHub stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zaoqu-Liu" height="157px" weight="200px"/>
+<img alt="Top Langs" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zaoqu-Liu&amp;layout=compact" height="157px"/>
+</div>
+
 ---
 
 ## 🔬 Research Focus
