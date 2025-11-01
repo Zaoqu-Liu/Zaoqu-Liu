@@ -8,12 +8,6 @@
 [![ORCID](https://img.shields.io/badge/ORCID-green)](https://orcid.org/0000-0002-0452-742X)
 <!-- badges: end -->
 
-<p align="center">
-	<a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      	<img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=Zaoqu-Liu&theme=merko&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" width="1000" alt="TROPHY" />
-   	</a>
-</p>
-
 👋 Hi, I'm **Zaoqu Liu**  
 **MD candidate** and **PhD student** at [Peking Union Medical College](http://www.cams.ac.cn/)
 
