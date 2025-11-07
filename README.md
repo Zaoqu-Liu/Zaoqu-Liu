@@ -64,8 +64,8 @@ Leveraging AI for Science through fine-tuning, reinforcement learning, retrieval
 - **[TimeCCI](https://github.com/Zaoqu-Liu/TimeCCI)** – Temporal cell-cell interaction analysis
 - **[NewCCI](https://github.com/Zaoqu-Liu/NewCCI)** – Novel cell-cell interaction discovery in scRNA-seq
 - **[Chunk](https://github.com/Zaoqu-Liu/Chunk)** – Phenotype-driven cell-cell interaction analysis
-- **[fastCNV](https://github.com/Zaoqu-Liu/fastCNV)** – CNV detection in single-cell and spatial transcriptomics
-- **[METAFlux2](https://github.com/Zaoqu-Liu/METAFlux2)** – Metabolism characterization from bulk and single-cell RNA-seq
+- **[fastCNV](https://github.com/Zaoqu-Liu/fastCNV)** – Modified CNV detection in single-cell and spatial transcriptomics
+- **[METAFlux2](https://github.com/Zaoqu-Liu/METAFlux2)** – Modified Metabolism characterization from bulk and single-cell RNA-seq
 
 ### Prognostic Modeling & Biomarker Discovery
 
