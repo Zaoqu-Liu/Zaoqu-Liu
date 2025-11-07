@@ -2,7 +2,7 @@
 
 # Welcome to My GitHub! 🧬
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Zaoqu-Liu&color=blueviolet&style=flat-square)](https://github.com/Zaoqu-Liu)
+[![Profile Views](https://komarev.com/ghpvc/?username=Zaoqu-Liu)
 [![License](https://img.shields.io/badge/License-GPL3-red?style=flat-square)](https://github.com/Zaoqu-Liu/Zaoqu-Liu?tab=GPL-3.0-1-ov-file)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Zaoqu-Liu/research)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=cuGDrMsAAAAJ&hl=zh-CN)
@@ -55,9 +55,9 @@ Leveraging AI for Science through fine-tuning, reinforcement learning, retrieval
 ### Multi-omics Integration & Cancer Subtyping
 
 - **[MOFS](https://github.com/Zaoqu-Liu/MOFS)** – Multimodality fusion subtyping (Nature Communications)
-- **[LRAcluster](https://github.com/Zaoqu-Liu/LRAcluster)** – Integrative clustering of multi-omics data using low-rank approximation
-- **[RGCCA](https://github.com/Zaoqu-Liu/RGCCA)** – Regularized and sparse generalized canonical correlation analysis
-- **[ssgsea.GBM.classification](https://github.com/Zaoqu-Liu/ssgsea.GBM.classification)** – GBM subtype classification
+- **[LRAcluster](https://github.com/Zaoqu-Liu/LRAcluster)** – Modified Integrative clustering of multi-omics data using low-rank approximation
+- **[RGCCA](https://github.com/Zaoqu-Liu/RGCCA)** – Modified Regularized and sparse generalized canonical correlation analysis
+- **[ssgsea.GBM.classification](https://github.com/Zaoqu-Liu/ssgsea.GBM.classification)** – Modified GBM subtype classification
 
 ### Single-cell & Spatial Transcriptomics
 
@@ -77,7 +77,7 @@ Leveraging AI for Science through fine-tuning, reinforcement learning, retrieval
 
 - **[SafeMapper](https://github.com/Zaoqu-Liu/SafeMapper)** – Fault-tolerant functional programming with automatic recovery
 - **[EasyDNB](https://github.com/Zaoqu-Liu/EasyDNB)** – Dynamic network biomarker analysis
-- **[GSReg](https://github.com/Zaoqu-Liu/GSReg)** – Gene set regulation analysis
+- **[GSReg](https://github.com/Zaoqu-Liu/GSReg)** – Modified Gene set regulation analysis
 
 ---
 
