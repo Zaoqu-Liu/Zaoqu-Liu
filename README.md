@@ -2,7 +2,7 @@
 
 # Welcome to My GitHub! 🧬
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Zaoqu-Liu)
+![Profile Views](https://komarev.com/ghpvc/?username=Zaoqu-Liu)
 [![License](https://img.shields.io/badge/License-GPL3-red?style=flat-square)](https://github.com/Zaoqu-Liu/Zaoqu-Liu?tab=GPL-3.0-1-ov-file)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Zaoqu-Liu/research)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=cuGDrMsAAAAJ&hl=zh-CN)
