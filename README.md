@@ -52,7 +52,21 @@ Developing computational methods and AI systems for **tumor microenvironment** a
 
 ### Enhanced Forks
 
-30+ repositories with substantial modifications: cell-cell communication (`liana`, `SpaTalk`, `nichenetr`), single-cell analysis (`CellOracle`, `scGate`, `SCENT`), spatial transcriptomics (`STRIDE`, `SpaGE`, `cytospace`), and more.
+30+ repositories with substantial modifications:
+
+**Cell-Cell Communication:** [liana](https://github.com/Zaoqu-Liu/liana) · [SpaTalk](https://github.com/Zaoqu-Liu/SpaTalk) · [nichenetr](https://github.com/Zaoqu-Liu/nichenetr) · [multinichenetr](https://github.com/Zaoqu-Liu/multinichenetr) · [iTALK](https://github.com/Zaoqu-Liu/iTALK) · [Connectome](https://github.com/Zaoqu-Liu/Connectome) · [COMMOT](https://github.com/Zaoqu-Liu/COMMOT) · [Chunk](https://github.com/Zaoqu-Liu/Chunk)
+
+**Single-Cell Analysis:** [CellOracle](https://github.com/Zaoqu-Liu/CellOracle) · [scGate](https://github.com/Zaoqu-Liu/scGate) · [SCENT](https://github.com/Zaoqu-Liu/SCENT) · [scTenifoldKnk](https://github.com/Zaoqu-Liu/scTenifoldKnk) · [scPAS](https://github.com/Zaoqu-Liu/scPAS) · [recall](https://github.com/Zaoqu-Liu/recall) · [scimilarity](https://github.com/Zaoqu-Liu/scimilarity) · [SAMap](https://github.com/Zaoqu-Liu/SAMap)
+
+**Spatial Transcriptomics:** [STRIDE](https://github.com/Zaoqu-Liu/STRIDE) · [SpaGE](https://github.com/Zaoqu-Liu/SpaGE) · [cytospace](https://github.com/Zaoqu-Liu/cytospace) · [fastCNV](https://github.com/Zaoqu-Liu/fastCNV)
+
+**CNV & Metabolism:** [SCEVAN](https://github.com/Zaoqu-Liu/SCEVAN) · [METAFlux](https://github.com/Zaoqu-Liu/METAFlux) · [MAGIC](https://github.com/Zaoqu-Liu/MAGIC)
+
+**Trajectory & Dynamics:** [tradeSeq](https://github.com/Zaoqu-Liu/tradeSeq) · [Cepo](https://github.com/Zaoqu-Liu/Cepo) · [Refate](https://github.com/Zaoqu-Liu/Refate)
+
+**Multi-omics:** [LRAcluster](https://github.com/Zaoqu-Liu/LRAcluster) · [RGCCA](https://github.com/Zaoqu-Liu/RGCCA) · [genekitr2](https://github.com/Zaoqu-Liu/genekitr2) · [GSReg](https://github.com/Zaoqu-Liu/GSReg) · [ssgsea.GBM.classification](https://github.com/Zaoqu-Liu/ssgsea.GBM.classification)
+
+**Others:** [OmnipathR](https://github.com/Zaoqu-Liu/OmnipathR) · [MultiK](https://github.com/Zaoqu-Liu/MultiK) · [SecAct](https://github.com/Zaoqu-Liu/SecAct)
 
 ---
 
