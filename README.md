@@ -21,35 +21,6 @@ Developing computational methods and AI systems for **tumor microenvironment** a
 
 ---
 
-### Highlight: ScienceClaw
-
-<table>
-<tr>
-<td width="120" align="center">
-<a href="https://github.com/Zaoqu-Liu/ScienceClaw">
-<img src="https://github.com/Zaoqu-Liu/ScienceClaw/raw/main/ScienceClaw-Logo.png" width="90"/>
-</a>
-</td>
-<td>
-<b><a href="https://github.com/Zaoqu-Liu/ScienceClaw">ScienceClaw</a></b> — Your AI Research Lab That Never Sleeps.
-<br/><br/>
-9 AI agents (inspired by <i>Friends</i>) collaborate as your personal research team — from literature search to publication. 264 skills, 77 databases, 15+ search sources, zero boundaries.
-<br/><br/>
-<a href="https://github.com/Zaoqu-Liu/ScienceClaw"><img src="https://img.shields.io/github/stars/Zaoqu-Liu/ScienceClaw?style=social"/></a>
-<a href="https://github.com/Zaoqu-Liu/ScienceClaw"><img src="https://img.shields.io/badge/License-MIT-2ea44f"/></a>
-<a href="https://github.com/Zaoqu-Liu/ScienceClaw"><img src="https://img.shields.io/badge/Agents-9-orange"/></a>
-<a href="https://github.com/Zaoqu-Liu/ScienceClaw"><img src="https://img.shields.io/badge/Skills-264+-blue"/></a>
-<a href="https://github.com/Zaoqu-Liu/ScienceClaw"><img src="https://img.shields.io/badge/Databases-77+-purple"/></a>
-</td>
-</tr>
-</table>
-
-**What it does:** Ask one question, get a full research report. Agents search literature, analyze databases, check patents, run QC, and synthesize findings — all in parallel.
-
-See real examples: [THBS2 tumor research](https://github.com/Zaoqu-Liu/ScienceClaw/blob/main/docs/cases/case-thbs2-tumor.md) · [LLM in biomedicine survey](https://github.com/Zaoqu-Liu/ScienceClaw/blob/main/docs/cases/case-llm-biomedicine.md)
-
----
-
 ### Featured Publications
 
 | Repository | Journal | Description |
@@ -67,7 +38,7 @@ See real examples: [THBS2 tumor research](https://github.com/Zaoqu-Liu/ScienceCl
 
 **AI for Science**
 
-[**ScienceClaw**](https://github.com/Zaoqu-Liu/ScienceClaw) · [PubMedRAG](https://github.com/Zaoqu-Liu/PubMedRAG) · [LitChain](https://github.com/Zaoqu-Liu/LitChain) · [GeneRAG](https://github.com/Zaoqu-Liu/GeneRAG) · [Aividence](https://github.com/Zaoqu-Liu/Aividence) · [BioKG-Builder](https://github.com/Zaoqu-Liu/BioKG-Builder) · [llmflow](https://github.com/Zaoqu-Liu/llmflow)
+[ScienceClaw](https://github.com/Zaoqu-Liu/ScienceClaw) · [PubMedRAG](https://github.com/Zaoqu-Liu/PubMedRAG) · [LitChain](https://github.com/Zaoqu-Liu/LitChain) · [GeneRAG](https://github.com/Zaoqu-Liu/GeneRAG) · [Aividence](https://github.com/Zaoqu-Liu/Aividence) · [BioKG-Builder](https://github.com/Zaoqu-Liu/BioKG-Builder) · [llmflow](https://github.com/Zaoqu-Liu/llmflow)
 
 **Single-cell & Spatial Omics**
 
