@@ -17,7 +17,7 @@
 
 ### Research Focus
 
-Developing computational methods and AI systems for **tumor microenvironment** analysis, **multi-omics integration**, and **biomedical knowledge discovery**.
+Building **AI-ready scientific infrastructure** for **autonomous scientific discovery**, and developing **AI virtual cell models** to study **cancer-associated fibroblast (CAF) plasticity** and **stromal reprogramming**
 
 ---
 
