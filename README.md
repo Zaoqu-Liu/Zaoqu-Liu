@@ -56,7 +56,7 @@ Maintained forks and copies:
 
 **Cell-Cell Communication:** [liana](https://github.com/Zaoqu-Liu/liana) · [SpaTalk](https://github.com/Zaoqu-Liu/SpaTalk) · [nichenetr](https://github.com/Zaoqu-Liu/nichenetr) · [multinichenetr](https://github.com/Zaoqu-Liu/multinichenetr) · [iTALK](https://github.com/Zaoqu-Liu/iTALK) · [Connectome](https://github.com/Zaoqu-Liu/Connectome) · [COMMOT](https://github.com/Zaoqu-Liu/COMMOT)
 
-**Single-Cell Analysis:** [CellOracle](https://github.com/Zaoqu-Liu/CellOracle) · [scGate](https://github.com/Zaoqu-Liu/scGate) · [SCENT](https://github.com/Zaoqu-Liu/SCENT) · [scTenifoldKnk](https://github.com/Zaoqu-Liu/scTenifoldKnk) · [scPAS](https://github.com/Zaoqu-Liu/scPAS) · [recall](https://github.com/Zaoqu-Liu/recall) · [scimilarity](https://github.com/Zaoqu-Liu/scimilarity) · [SAMap](https://github.com/Zaoqu-Liu/SAMap)
+**Single-Cell Analysis:** [CellOracle](https://github.com/Zaoqu-Liu/CellOracle) · [scGate](https://github.com/Zaoqu-Liu/scGate) · [SCENT](https://github.com/Zaoqu-Liu/SCENT) · [scTenifoldKnk](https://github.com/Zaoqu-Liu/scTenifoldKnk) · [scPAS](https://github.com/Zaoqu-Liu/scPAS) · [recall](https://github.com/Zaoqu-Liu/recall)
 
 **Spatial Transcriptomics:** [fastCNV](https://github.com/Zaoqu-Liu/fastCNV)
 
